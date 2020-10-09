@@ -4,8 +4,8 @@ urls:
   donations_api_params:
     accessType: 'DOWNLOAD'
     api_foundry: 'true'
-    election_year: '2020'
-    primary_general: 'General'
+    # election_year: '2020'
+    # primary_general: 'General'
 filenames:
   pdc_api_token: "pdc_api_token.txt"
   donations_raw: "donations_raw.csv"
